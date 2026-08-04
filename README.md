@@ -102,7 +102,7 @@ Network Update
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/RL-Agent_TwoEnvironments.git
+git clone https://github.com/Chetana12047/RL-Agent_TwoEnvironments
 ```
 
 Move into the project directory
